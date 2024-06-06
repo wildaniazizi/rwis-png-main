@@ -1,0 +1,7 @@
+*
+!public/
+!.gitignore
+!districts.csv
+!provinces.csv
+!regencies.csv
+!villages.csv
