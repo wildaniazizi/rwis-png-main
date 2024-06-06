@@ -120,6 +120,7 @@ Route::prefix('government')->name('government')->group(function () {
     });
 });
 
+Route::resource('resident', ResidentController::class);
 Route::prefix('resident')->name('resident')->group(function () {
     Route::resource('religion', ReligionController::class);
     Route::prefix('religion')->name('religion')->controller(ReligionController::class)->group(function () {

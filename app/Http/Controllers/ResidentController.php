@@ -13,7 +13,7 @@ class ResidentController extends Controller
      */
     public function index()
     {
-        //
+        return view('residential-information.index');
     }
 
     /**

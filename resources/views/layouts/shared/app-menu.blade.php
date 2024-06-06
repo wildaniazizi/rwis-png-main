@@ -9,7 +9,7 @@
         </a>
     </li>
     <li>
-        <a href="javascript: void(0);">
+        <a href="administration">
             <i data-feather="inbox"></i>
             <span> Administrator </span>
             <span class="menu-arrow"></span>
@@ -28,7 +28,7 @@
         </ul> --}}
     </li>
     <li>
-        <a href="javascript: void(0);">
+        <a href="resident">
             <i class='uil uil-books'></i>
             <span> Residential Information </span>
             <span class="menu-arrow"></span>
